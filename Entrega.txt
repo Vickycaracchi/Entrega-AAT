@@ -1,1 +1,3 @@
-Victoria Caracchi 6to informática 
+Victoria Caracchi 6to informática-AAT
+Consigna:
+Crear un repositorio en git hub, crear unn archivo y realizar al menos 3 commits.
